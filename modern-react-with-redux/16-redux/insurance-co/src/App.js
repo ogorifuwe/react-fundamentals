@@ -30,7 +30,7 @@ const App = () => {
   };
 
   // departments (reducers)
-  const claimHistory = (oldListOfClaims = [], action) => {
+  const claimsHistory = (oldListOfClaims = [], action) => {
     if (action.type === 'CREATE_CLAIM') {
       return [ ...oldListOfClaims, action.payload ];
     }
@@ -60,7 +60,7 @@ const App = () => {
   }
 
   const departments = combineReducers({
-    claimHistory: claimHistory,
+    claimsHistory: claimsHistory,
     accouting: accounting,
     policies: policies
   });
