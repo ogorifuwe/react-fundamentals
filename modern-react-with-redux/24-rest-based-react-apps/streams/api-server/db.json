@@ -1,0 +1,37 @@
+{
+  "streams": [
+    {
+      "title": "Test Stream 1",
+      "description": "Test Stream Creation",
+      "id": 1
+    },
+    {
+      "title": "Test Stream 2",
+      "description": "Demonstrating test stream creation process",
+      "id": 2
+    },
+    {
+      "title": "Test Stream 3",
+      "description": "Create a test stream with user Id prop",
+      "userId": "112162343228525273982",
+      "id": 3
+    },
+    {
+      "title": "Unxpected Behavior",
+      "description": "Didn't expect that",
+      "userId": "112162343228525273982",
+      "id": 4
+    },
+    {
+      "title": "Programmatic Navigation",
+      "description": "Navigate to home screen after patch update",
+      "userId": "112162343228525273982",
+      "id": 5
+    },
+    {
+      "title": "After Refactor",
+      "description": "Test after refactor - edited Again Again!",
+      "id": 6
+    }
+  ]
+}
