@@ -1,0 +1,31 @@
+{
+  "streams": [
+    {
+      "title": "Test Stream 1",
+      "description": "Test Stream Creation",
+      "id": 1
+    },
+    {
+      "title": "Test Stream 2",
+      "description": "Demonstrating test stream creation process",
+      "id": 2
+    },
+    {
+      "title": "After Refactor",
+      "description": "Test after refactor - edited Again Again!",
+      "id": 6
+    },
+    {
+      "title": "Testing Closing Icon",
+      "description": "another app test",
+      "userId": "112162343228525273982",
+      "id": 7
+    },
+    {
+      "title": "Ogor's Test Stream",
+      "description": "Ogor's Test Stream description updated",
+      "userId": "112162343228525273982",
+      "id": 8
+    }
+  ]
+}
